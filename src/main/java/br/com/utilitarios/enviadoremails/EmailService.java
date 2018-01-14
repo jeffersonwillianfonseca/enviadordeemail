@@ -1,4 +1,4 @@
-package br.com.utilitarios.enviadordeemails.enviadordeemails;
+package br.com.utilitarios.enviadoremails;
 
 import org.apache.commons.mail.DefaultAuthenticator;
 import org.apache.commons.mail.Email;

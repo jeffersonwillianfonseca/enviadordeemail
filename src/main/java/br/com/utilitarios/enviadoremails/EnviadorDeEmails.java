@@ -1,4 +1,4 @@
-package br.com.utilitarios.enviadordeemails.enviadordeemails;
+package br.com.utilitarios.enviadoremails;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
